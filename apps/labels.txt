@@ -1,0 +1,6 @@
+0 It's a fresh bread , use it before a week.
+1 It's an expired bread, throw it!
+2 It's has mold on right side , use the left side.
+3 It's has mold on left side , use the right side.
+4 It's has mold on top side , use the bottom side.
+5 It's has mold on bottom side , use the top side.
