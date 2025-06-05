@@ -1,4 +1,4 @@
-Food Shelf Life Detector Using Deep Learning
+BreadSpoilNet: Convolutional Neural Network-Based Early Detection and Shelf Life Prediction for Bakery Products
 
 Overview
 
